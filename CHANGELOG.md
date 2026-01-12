@@ -1,3 +1,8 @@
+## 0.0.2
+
+* Fixed broken image links in README.
+* Improved documentation.
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release.

@@ -3,15 +3,15 @@
 A high-performance, physics-based notification system featuring holographic shimmers, staggered kinetic entrances, and a futuristic HUD aesthetic.
 
 <p align="center">
-  <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/demo_gif.gif" width="200" alt="Luxe Toast Demo" />
+  <img src="https://raw.githubusercontent.com/DoctorFlutter/luxe_toast/main/assets/demo_gif.gif" width="200" alt="Luxe Toast Demo" />
 </p>
 
 
 ## Screenshots 📸
 
-|                                               Success State                                               |                                                Error State                                                |                                                Info State                                                 |
-|:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/screenshot%20(1).jpg" width="200"> | <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/screenshot%20(2).jpg" width="200"> | <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/screenshot%20(3).jpg" width="200"> |
+|                                                    Success State                                                    |                                                     Error State                                                     |                                                     Info State                                                      |
+|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://raw.githubusercontent.com/DoctorFlutter/luxe_toast/main/assets/screenshot%20(1).jpg" width="200"> | <img src="https://raw.githubusercontent.com/DoctorFlutter/luxe_toast/main/assets/screenshot%20(2).jpg" width="200"> | <img src="https://raw.githubusercontent.com/DoctorFlutter/luxe_toast/main/assets/screenshot%20(3).jpg" width="200"> |
 
 ## Features 🚀
 
