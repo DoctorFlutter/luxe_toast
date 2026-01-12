@@ -2,7 +2,14 @@
 
 A high-performance, physics-based notification system featuring holographic shimmers, staggered kinetic entrances, and a futuristic HUD aesthetic.
 
-![Luxe Toast Demo](LINK_TO_YOUR_GIF_HERE.gif)
+![Luxe Toast Demo](https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/demo_gif.gif)
+
+## Screenshots 📸
+
+|                                               Success State                                               |                                                Error State                                                |                                                Info State                                                 |
+|:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/screenshot%20(1).jpg" width="200"> | <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/screenshot%20(2).jpg" width="200"> | <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/screenshot%20(3).jpg" width="200"> |
+
 ## Features 🚀
 
 * **Kinetic Entrance:** Physically snaps open using elastic physics (no boring fades).
@@ -10,12 +17,6 @@ A high-performance, physics-based notification system featuring holographic shim
 * **Alive & Breathing:** The toast gently floats up and down while visible.
 * **Staggered Animation:** Icon spins, text slides, and progress bar shrinks.
 * **Zero Boilerplate:** Call it anywhere without needing a `BuildContext` builder.
-
-## Screenshots 📸
-
-|                  Success State                   |                   Error State                    |                    Info State                    |
-|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
-| <img src="LINK_TO_SCREENSHOT_1.png" width="200"> | <img src="LINK_TO_SCREENSHOT_2.png" width="200"> | <img src="LINK_TO_SCREENSHOT_3.png" width="200"> |
 
 ## Parameters ⚙️
 
