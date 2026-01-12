@@ -2,7 +2,10 @@
 
 A high-performance, physics-based notification system featuring holographic shimmers, staggered kinetic entrances, and a futuristic HUD aesthetic.
 
-![Luxe Toast Demo]<img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/demo_gif.gif" width="200" />
+<p align="center">
+  <img src="https://github.com/DoctorFlutter/luxe_toast/blob/main/assets/demo_gif.gif" width="200" alt="Luxe Toast Demo" />
+</p>
+
 
 ## Screenshots 📸
 
